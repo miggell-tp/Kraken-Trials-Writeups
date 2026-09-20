@@ -1,6 +1,7 @@
 # Genshin Impact
 
 **Category:** Crypto
+
 **Points:** 100
 
 ## 1. Challenge Overview
