@@ -1,6 +1,7 @@
 # Caesar the Great
 
 *Category:* Cryptography
+
 *Points:* 100
 
 ## 1. Challenge Overview
