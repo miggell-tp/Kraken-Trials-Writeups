@@ -1,6 +1,6 @@
 # Chris Brown
 
-*Category:* Crypto  
+*Category:* Cryptography
 *Points:* 100
 
 ## 1. Challenge Overview
