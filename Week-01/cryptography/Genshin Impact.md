@@ -8,6 +8,10 @@
 
 We are given a message written using the **Teyvat Language**, the fictional writing system used in *Genshin Impact*.
 
+> I was playing Genshin Impact and Nahida is trying to tell me something.
+
+> Flag format: MLUC{FLAG}
+
 The goal is to identify the language, translate the characters into English, and recover the flag.
 
 The encrypted message is:
