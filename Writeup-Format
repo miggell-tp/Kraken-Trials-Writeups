@@ -1,0 +1,45 @@
+# Challenge Name
+
+*Category:* Web / Forensics / Crypto / OSINT
+*Description:*
+*Attachments:* 
+
+## 1. Challenge Overview
+
+Briefly explain what the challenge gives you and what you need to find.
+
+Example:
+We are given a website with a login page. The goal is to obtain the flag.
+
+
+## 2. What to Look At
+
+Start with the important observations.
+
+Example:
+- The page has a login form.
+- The source contains an unusual comment.
+- The application accepts user-controlled input.
+- The challenge gives us a .pcap file.
+
+*Key clue:* <!-- check_the_source -->
+
+## 3. Approach
+
+Explain the thought process, not just the commands.
+
+Example:
+I first inspected the page source because the challenge description suggested that there might be information hidden in the webpage.
+
+Then I noticed a comment containing a suspicious path.
+
+## 4. Solution
+
+### Step 1: Inspect the source
+
+Right-click the webpage and select *View Page Source*.
+
+Look for comments or unusual content.
+
+```html
+<!-- /secret-panel -->
