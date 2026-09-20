@@ -1,2 +1,2 @@
 # Kraken-Trials-Writeups
-Official Writeups 
+Weekly CTF writeups for MLUC tr0jans: Kraken Trials.
