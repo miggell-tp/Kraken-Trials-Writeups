@@ -1,6 +1,7 @@
 # Depths Within
 
-*Category:* Steganography  
+*Category:* Forensics  
+*Points:* 300  
 *Attachments:* `kr4k3n_hidden.jpg`
 
 ## 1. Challenge Overview
