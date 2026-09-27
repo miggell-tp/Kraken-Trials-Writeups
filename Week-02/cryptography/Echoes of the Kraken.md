@@ -1,8 +1,7 @@
 # Echoes of the Kraken
 
 *Category:* Crypto  
-*Description:*  
-*Attachments:* None
+*Points:* 100
 
 ## 1. Challenge Overview
 
