@@ -1,4 +1,4 @@
-# Professor Left His Tab Open
+# The Dragon Warrior
 
 *Category:* Forensics  
 *Points:* 500  
