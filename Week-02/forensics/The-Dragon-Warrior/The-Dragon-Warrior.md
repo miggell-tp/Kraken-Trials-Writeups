@@ -4,7 +4,7 @@
 *Points:* 500  
 *Author:* mpm4wi  
 *Description:* :>
-*Attachments:* [Download the ZIP from the challenge link](http://161.118.223.219:5006/downloads/the-dragon-warrior.zip)
+*Attachments:* [professor-left-tab-open.zip](../materials/The-Dragon-Warrior.zip)
 
 
 ## 1. Challenge Overview
