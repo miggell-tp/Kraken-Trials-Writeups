@@ -1,0 +1,17 @@
+*Author: 0xj4n*
+
+> ### Note: Whoever solves this first will receive a small reward from the author.
+
+Someone using the name ```0xKrakenzzz``` has been leaving digital footprints across the internet.
+
+What starts as an ordinary question may lead you much further than expected.
+
+Follow the trail, connect the identities, and pay attention to everything you find along the way.
+
+Some things are meant to be found.
+
+Others are meant to fool you.
+
+The flag is case-insensitive, so you do not need to worry about capitalization.
+
+**Flag Format:** `MLUC{...}`
