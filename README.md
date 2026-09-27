@@ -19,6 +19,7 @@ Kraken Trials is designed to help students build practical cybersecurity skills 
 | Week | Challenges | Writeups |
 |------|------------|----------|
 | Week 01 | TBD | [View Writeups](./Week-01/) |
+| Week 02 | TBD | [View Writeups](./Week-02/) |
 
 ## About the Writeups
 
