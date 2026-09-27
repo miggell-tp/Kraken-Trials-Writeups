@@ -1,10 +1,11 @@
-# The-Dragon-Warrior
+# The Dragon Warrior
 
 *Category:* Forensics  
 *Points:* 500  
 *Author:* mpm4wi  
 *Description:* :>
-*Attachments:* [Download the ZIP from the challenge link](http://161.118.223.219:5006/downloads/the-dragon-warrior.zip)
+
+*Attachments:* [The-Dragon-Warrior.zip](materials/The-Dragon-Warrior.zip)
 
 
 ## 1. Challenge Overview
