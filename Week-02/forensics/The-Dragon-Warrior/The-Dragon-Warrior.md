@@ -4,7 +4,7 @@
 *Points:* 500  
 *Author:* mpm4wi  
 *Description:* :>
-*Attachments:* [Download the evidence ZIP from the challenge link](http://161.118.223.219:5006/downloads/professor-left-tab-open.zip)
+*Attachments:* [Download the ZIP from the challenge link](http://161.118.223.219:5006/downloads/the-dragon-warrior.zip)
 
 
 ## 1. Challenge Overview
@@ -37,15 +37,18 @@ Unlock the ZIP file, and aha, you’ve got the flag.
 
 Unzip the challenge archive. Check the files’ metadata, types, sizes, and structure for anything unusual.
 
-![[Pasted image 20260927233135.png]]
+<img width="1508" height="258" alt="image" src="https://github.com/user-attachments/assets/9b7f6a7a-03ad-4c9e-b67b-37eca14f708f" />
 
-![[Pasted image 20260927233209.png]]
+<img width="1330" height="818" alt="image" src="https://github.com/user-attachments/assets/99a0bc07-8e6e-47e5-b049-76f97e59d671" />
 
-![[Pasted image 20260927233254.png]]
+<img width="1548" height="128" alt="image" src="https://github.com/user-attachments/assets/5c03b316-7de0-461e-bd68-9b2ebd0eb126" />
 
-![[Pasted image 20260927233459.png]]
 
-![[Pasted image 20260927233530.png]]
+<img width="963" height="204" alt="image" src="https://github.com/user-attachments/assets/e12bd4ec-dd13-4f60-b16b-b82a8760678a" />
+
+
+<img width="1376" height="440" alt="image" src="https://github.com/user-attachments/assets/56bb4b59-e7d9-477a-a2ee-32cb9968203c" />
+
 
 File signature is not for png
 
@@ -64,7 +67,8 @@ binwalk --dd=".*" dragon-warrior-x.png
 
 This is we what want 
 
-![[Pasted image 20260927234232.png]]
+<img width="2126" height="1208" alt="image" src="https://github.com/user-attachments/assets/a97805ad-7fd4-4051-addb-e92aa3287ad3" />
+
 
 See how aggressive that command is? It carved out a bunch of unnecessary files too.
 ### Step 3: Check the WAV file for embedded data
@@ -73,14 +77,16 @@ Try your usual steganography checks on the WAV file. Mention that brute-forcing 
 
 Here is our wav file listening to it does nothing its just really the theme song of kungfu fighting yah! exciting something idk the lyrics
 
-![[Pasted image 20260927234431.png]]
+<img width="2070" height="1306" alt="image" src="https://github.com/user-attachments/assets/344918c3-eb3c-4f8b-8221-0a252eb1602d" />
 
 
-![[Pasted image 20260927234634.png]]
+<img width="1234" height="144" alt="image" src="https://github.com/user-attachments/assets/f56ff2df-6639-4afb-83d1-250e432fae92" />
+
 
 You will also try stegseek the best version of steghide
 
-![[Pasted image 20260927234708.png]]
+<img width="1204" height="204" alt="image" src="https://github.com/user-attachments/assets/470c2b97-114a-40e1-a5ad-a1901444008c" />
+
 
 It even went through the entire 133 MB RockYou wordlist also if your password is there you are cooked really cooked so change password now
 
@@ -92,7 +98,8 @@ Examine `dragon-scroll-x.png` through different color planes. Reveal the low-con
 Personally ill just use online tools for this steganography tools something like that for example this website 
 https://www.boxentriq.com/steganography/invisible-ink-detector
 
-![[Pasted image 20260927235127.png]]
+<img width="531" height="698" alt="image" src="https://github.com/user-attachments/assets/825cc90d-6c96-4560-8b69-8d17206edf3c" />
+
 
 Notice the text? It might be the password for the WAV file we carved out of the other image.
 
@@ -101,15 +108,18 @@ It may not be easy to read at first, so try inspecting different color planes. Y
 
 Use the recovered text as the Steghide passphrase for the WAV file. Extract the ZIP archive and note that it contains a password-protected archive called `the-last-scroll`.
 
-![[Pasted image 20260928000358.png]]
+<img width="990" height="88" alt="image" src="https://github.com/user-attachments/assets/1b0ffcf8-e968-4a6f-9651-366d2681395d" />
+
 
 Charan! But wait, there’s more. The author really isn’t that generous after all.
 
-![[Pasted image 20260928000439.png]]
+<img width="1536" height="150" alt="image" src="https://github.com/user-attachments/assets/e09d766c-09f3-4a8a-8d11-19257a6a5cc6" />
+
 
 You can’t unzip it! It says “Unsupported compression method 99.” What a bum.
 
-![[Pasted image 20260928000607.png]]
+<img width="602" height="362" alt="image" src="https://github.com/user-attachments/assets/eab238a9-e27f-4d58-b856-bed8425ec58d" />
+
 
 And now its asking for password
 ### Step 6: Recover the archive password
@@ -122,7 +132,8 @@ Inspecting the `last-scroll.zip`
 zipinfo -v last-scroll.zip
 ```
 
-![[Pasted image 20260928000810.png]]
+<img width="1652" height="382" alt="image" src="https://github.com/user-attachments/assets/a7b92457-e4e2-4dab-8f23-1328eb9709fa" />
+
 
 iIt reveals a subfield with ID `0x1337`, followed by 24 bytes of trailing data:
 
@@ -147,10 +158,12 @@ Skad00sh
 
 Use the recovered password to unlock `the-last-scroll` and retrieve `flag.txt`.
 
-![[Pasted image 20260928001202.png]]
+<img width="616" height="406" alt="image" src="https://github.com/user-attachments/assets/b1b65217-acd2-469c-9472-d039cf247b88" />
+
 
 Or using terminal with 7z to make it cooler gui is lame
 
-![[Pasted image 20260928001302.png]]
+<img width="1406" height="790" alt="image" src="https://github.com/user-attachments/assets/0ebfbd5c-3611-40ea-a1bc-7c595fd0436e" />
 
+Wolah! you get the flag!
 `MLUC{Y0u_4r3_7h3_dr4g0n_w4rr10r_098f6bcd4621d373c4d343832627b4f6}`
