@@ -1,8 +1,7 @@
 # The Will of D.
 
 *Category:* Cryptography  
-*Difficulty:* Beginner  
-*Points:* 150
+*Points:* 200
 
 *Description:*
 
