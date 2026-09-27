@@ -4,7 +4,7 @@
 *Points:* 500  
 *Author:* mpm4wi  
 *Description:* :>
-*Attachments:* [The-Dragon-Warrior.zip](../materials/The-Dragon-Warrior.zip)
+*Attachments:* [The-Dragon-Warrior.zip](Week-02/forensics/The-Dragon-Warrior/The-Dragon-Warrior.md/The-Dragon-Warrior.zip)
 
 
 ## 1. Challenge Overview
