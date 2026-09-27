@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "90ebb58059a4a44e",
+    "id": "3bcc965f47482c00",
     "type": "split",
     "children": [
       {
-        "id": "38fdd06fc9ac39ff",
+        "id": "7dbed12c481c7184",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb9d9ed49503e12",
+            "id": "95a6a3f3f4a36898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "The Kraken 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The Kraken 1"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3a18bbc9c2b35df6",
+    "id": "c8cf0c25c621888f",
     "type": "split",
     "children": [
       {
-        "id": "0ba85a8ee77e8fe7",
+        "id": "ed2b32cc7e760a0c",
         "type": "tabs",
         "children": [
           {
-            "id": "32707213c9909578",
+            "id": "b957546d4d199703",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "91810168d70fbc4f",
+            "id": "9c0b505f1e2a1b32",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "073e1fae8b892b32",
+            "id": "ff7af8b7749a8972",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "bdc838d516657ae4",
+    "id": "f6f89e90cb2517a7",
     "type": "split",
     "children": [
       {
-        "id": "a7ea8c34684e5a81",
+        "id": "678acb4e3c85179e",
         "type": "tabs",
         "children": [
           {
-            "id": "98c2eb88bd79cd2d",
+            "id": "79e70383ed184826",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "The Kraken 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "be83c358fdd4ae1d",
+            "id": "fb5131f9f5a6a537",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "The Kraken 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "b1ed270cc9392c4a",
+            "id": "f4c420303b6ae597",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "834314adc3e7da34",
+            "id": "c8f9ae0fe3e97f2d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +156,12 @@
             }
           },
           {
-            "id": "9bd8d5f8e8ef8eea",
+            "id": "16240d73dc4f08c8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "The Kraken 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,25 +188,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "ceb9d9ed49503e12",
+  "active": "b957546d4d199703",
   "lastOpenFiles": [
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928010405.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928010349.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928010336.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928010312.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928010239.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928010236.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928010219.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928010207.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928010133.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928004813.png",
-    "Week-02/miscellaneous/The Kraken 1/Pasted image 20260928004720.png",
-    "zAttachments",
-    "Week-02/forensics/The-Dragon-Warrior/The-Dragon-Warrior.md",
-    "Week-02/miscellaneous/The Kraken 1/The Kraken 1.md",
-    "Week-02/miscellaneous/The Kraken 1",
-    "Week-02/miscellaneous/Untitled",
-    "Week-02/miscellaneous/The Kraken 1.md",
-    "README.md"
+    "Pasted image 20260928010405.png",
+    "Pasted image 20260928010349.png",
+    "Pasted image 20260928010336.png",
+    "Pasted image 20260928010312.png",
+    "Pasted image 20260928010239.png",
+    "Pasted image 20260928010236.png",
+    "Pasted image 20260928010219.png",
+    "Pasted image 20260928010207.png",
+    "Pasted image 20260928010133.png",
+    "Pasted image 20260928004813.png",
+    "Pasted image 20260928004720.png"
   ]
 }
