@@ -29,7 +29,7 @@ Keep an eye on the status pills to confirm each offering was accepted. The Krake
 
 The script lays out the order of the conversation. You can also follow the Kraken’s hints, but the scripted flow is the real map. Tentacles are dramatic. JavaScript is specific.
 
-![Challenge conversation](Pasted%20image%2020260928004720.png)
+![Challenge conversation](materials/Pasted%20image%2020260928004720.png)
 
 Just scroll down
 ### Step 1: Ask for a shanty
@@ -40,7 +40,7 @@ Start by asking the Kraken to sing, for example:
 Sing me a song.
 ```
 
-![Kraken sings the shanty](Pasted%20image%2020260928004813.png)
+![Kraken sings the shanty](materials/Pasted%20image%2020260928004813.png)
 
 This begins the first stage.
 
@@ -52,7 +52,7 @@ Once the Kraken has sung, ask about the wreck or the **Wailing Dowager**:
 Tell me of the wreck.
 ```
 
-![Kraken describes the wreck](Pasted%20image%2020260928010133.png)
+![Kraken describes the wreck](materials/Pasted%20image%2020260928010133.png)
 ### Step 3: Earn the tide-word
 
 Ask what word the crew screamed, and show that you listened by mentioning the crew or the shanty. The tide-word is:
@@ -61,7 +61,7 @@ Ask what word the crew screamed, and show that you listened by mentioning the cr
 UNDERTOW
 ```
 
-![Kraken reveals the tide-word](Pasted%20image%2020260928010207.png)
+![Kraken reveals the tide-word](materials/Pasted%20image%2020260928010207.png)
 
 You have to earn it first. Just guessing the word at the start won’t count. The Kraken has standards. Apparently.
 
@@ -73,7 +73,7 @@ After the Kraken gives you the word, say:
 UNDERTOW
 ```
 
-![Tide-word accepted](Pasted%20image%2020260928010239.png)
+![Tide-word accepted](materials/Pasted%20image%2020260928010239.png)
 
 This moves the conversation to the next stage.
 
@@ -85,7 +85,7 @@ Ask the Kraken what it wants in exchange:
 What is the price deep?
 ```
 
-![Kraken names the price](Pasted%20image%2020260928010312.png)
+![Kraken names the price](materials/Pasted%20image%2020260928010312.png)
 
 ### Step 6: Find the captain’s name
 
@@ -95,7 +95,7 @@ Ask who commanded the ship. The captain’s name is:
 Elias Vane
 ```
 
-![Kraken reveals the captain's name](Pasted%20image%2020260928010336.png)
+![Kraken reveals the captain's name](materials/Pasted%20image%2020260928010336.png)
 ### Step 7: Offer the captain’s name
 
 Give the Kraken the name as payment:
@@ -104,7 +104,7 @@ Give the Kraken the name as payment:
 Elias Vane
 ```
 
-![Captain's name accepted](Pasted%20image%2020260928010349.png)
+![Captain's name accepted](materials/Pasted%20image%2020260928010349.png)
 
 Check that the offerings have been accepted in the status pills beneath the conversation. The Kraken may have plenty to say, but the pills keep the receipts.
 
@@ -116,7 +116,7 @@ Once all three offerings are accepted, say the tide-word one more time:
 UNDERTOW
 ```
 
-![Chest number 7 opened](Pasted%20image%2020260928010405.png)
+![Chest number 7 opened](materials/Pasted%20image%2020260928010405.png)
 
 The chest opens, and the flag is yours. A little karaoke, some maritime lore, one captain’s name, and suddenly the Kraken is doing customer service.
 
