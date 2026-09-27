@@ -1,6 +1,7 @@
 # The Evidence Board
 
 *Category:* Forensics  
+*Points:* 300  
 *Description:* Something happened inside the CIT Building after school hours.
 
 A restricted room containing confidential student records was accessed after everyone had supposedly left.
