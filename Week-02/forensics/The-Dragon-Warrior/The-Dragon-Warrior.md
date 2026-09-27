@@ -4,7 +4,7 @@
 *Points:* 500  
 *Author:* mpm4wi  
 *Description:* :>
-*Attachments:* [professor-left-tab-open.zip](../materials/The-Dragon-Warrior.zip)
+*Attachments:* [The-Dragon-Warrior.zip](../materials/The-Dragon-Warrior.zip)
 
 
 ## 1. Challenge Overview
