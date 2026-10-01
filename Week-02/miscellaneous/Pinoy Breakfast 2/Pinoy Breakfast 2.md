@@ -34,7 +34,7 @@ The spectrogram contains several lines forming distinct patterns. I also noticed
 
 > That Chinoy malunggay pandesal vendor...
 
-If we're clueless about what cipher is being used, we can look at the **etymology or origin** of the words used in the challenge description and use that as our next clue. In this case, **"Chinoy"** is a term referring to someone who is Chinese-Filipino. This points us toward something related to **Chinese writing or Chinese-origin ciphers** because there is not Filipino Ciphers anyway. With this clue, we can search for ciphers that use symbols similar to the lines we saw in the spectrogram. Eventually, we find the matching cipher on **dCode**.
+If we're clueless about what cipher is being used, we can look at the **etymology or origin** of something used in the challenge description and use that as our next clue. In this case, **"Chinoy"** is a term referring to someone who is Chinese-Filipino. This points us toward something related to **Chinese writing or Chinese-origin ciphers** because there is no Filipino Ciphers anyway. With this clue, we can search for ciphers that use symbols similar to the lines we saw in the spectrogram. Eventually, we find the matching cipher on **dCode**.
 
 ![Cipher reference on dCode](image-4.png)
 
